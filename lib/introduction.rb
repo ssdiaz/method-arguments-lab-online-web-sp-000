@@ -1,1 +1,1 @@
-introduction = "Hi, my name is #{name}"
+introduction(name) = "Hi, my name is #{name}"
